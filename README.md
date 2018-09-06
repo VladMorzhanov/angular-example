@@ -1,5 +1,7 @@
 # Angular Heroes
 
+<img src="https://i.imgur.com/9gUrvCn.png"/>
+
 Heroes is an study application written in Angular 5.1.
 Tutorial: https://v2.angular.io/docs/ts/latest/tutorial/
 
